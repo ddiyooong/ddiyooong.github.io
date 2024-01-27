@@ -1,6 +1,35 @@
 ---
 ---
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
 
 @import 'main';
 
 /* append your custom style below */
+  
+  br {
+    content: '';
+    display: block;
+    margin: 10px 0;
+  }
+  
+  * {
+    font-family: 'Pretendard Variable', Pretendard, -apple-system,
+      BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI',
+      'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji',
+      'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+  }
+
+  
+  h1[data-toc-skip] {
+    font-size: 2.5rem;
+    font-family: 'Pretendard Variable';
+    font-weight: 700;
+  }
+
+  h2 {
+    font-weight: 700; /* h2 태그에 대한 글꼴 굵기 변경 */
+  }
+  
+  h3 {
+    font-weight: 600; /* h3 태그에 대한 글꼴 굵기 변경 */
+  }

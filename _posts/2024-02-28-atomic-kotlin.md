@@ -1,9 +1,9 @@
 ---
-title: 🐣아토믹 코틀린
+title: Atomic Kotlin
 date: 2024-01-28 01:36:00 +09
 categories: [📖독서 기록, Kotlin]
 tags: [
-    kotlin.
+    kotlin,
     atomic-kotlin,
     독서
     ]     # TAG names should always be lowercase
@@ -11,7 +11,7 @@ tags: [
 
 
 
-아토믹 코틀린을 읽으면서 몰랐던 부분, 애매한 부분을 정리함
+아토믹 코틀린을 읽으면서 새로 알게 된 내용, 애매한 부분을 정리함
 
 ## 1부: 프로그래밍 기초
 
