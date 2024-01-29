@@ -1,6 +1,7 @@
 ---
 ---
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 @import 'main';
 
@@ -32,4 +33,8 @@
   
   h3 {
     font-weight: 600; /* h3 태그에 대한 글꼴 굵기 변경 */
+  }
+
+  code, code *{
+    font-family: 'JetBrains Mono', monospace ;
   }

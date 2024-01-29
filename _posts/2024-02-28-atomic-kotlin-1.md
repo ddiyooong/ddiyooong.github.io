@@ -1,7 +1,7 @@
 ---
-title: Atomic Kotlin
+title: Atomic Kotlin (1)
 date: 2024-01-28 01:36:00 +09
-categories: [📖독서 기록, Kotlin]
+categories: [📖BOOK]
 tags: [
     kotlin,
     atomic-kotlin,
