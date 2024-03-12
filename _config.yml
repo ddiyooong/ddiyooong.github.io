@@ -196,3 +196,14 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# bundle exec jekyll compose "포스트 제목"
+# 명령어 입력 시 _post디렉토리에 “yyyy-mm-dd-title.md” 파일 생성됨
+jekyll_compose:
+  default_front_matter:
+    posts:
+      image:
+        path:
+        alt:
+      categories: []
+      tags: []
